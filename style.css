@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+body{
+    color: green;
+}
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 30px;
+
+    
+}
+header{
+    background-color: yellow;
+}
+.element1{
+    background-color: yellow;
+    height: 20vh;
+    width: 100vw;
+}
+
+.element2{
+    background-color: blue;
+    height: 25vh;
+    width: 100vw;
+}
+.element3{
+    background-color: red;
+    height: 40vh;
+    width: 100vw;
+}
+
+a{
+    margin: 3;
+    text-align: center;
+    color: green;    
+    border-left: seagreen solid;
+    
+   
+}
+
+img{
+    margin-left: 91vh;
+}
