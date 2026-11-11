@@ -48,3 +48,8 @@ a:hover{
   transform: scale(1.01);
   padding: 2px;
 }
+
+img{
+    display: block;
+    margin: auto;
+}
