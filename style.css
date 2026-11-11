@@ -36,8 +36,15 @@ a{
     margin: 3;
     text-align: center;
     color: green;    
-    border-left: seagreen solid;
-    
+    background-color: rgba(109, 109, 0, 0.404);
+    border-radius: 5px;
+    text-decoration: none;
    
 }
 
+
+a:hover{
+  color: rgb(0, 75, 0);   
+  transform: scale(1.01);
+  padding: 2px;
+}
