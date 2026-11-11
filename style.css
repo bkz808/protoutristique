@@ -53,3 +53,12 @@ img{
     display: block;
     margin: auto;
 }
+
+body {
+    background-image: url("colo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    opacity: 0.7;
+}
