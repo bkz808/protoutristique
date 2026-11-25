@@ -52,5 +52,6 @@ __Checklist :__
 
     - Récupéré le projet
     - Uniformiser le background, difficile vue que le site n'as pas été conçu pour supporter de grosse page de contenu.
+    - Difficulté Push/Pull
 
 ---
