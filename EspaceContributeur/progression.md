@@ -6,10 +6,14 @@ theme: uncover
 ---
 
 # Progression
-
-    Auteur  :   ~~NGUYEN VAN, Gabriel~~
+<pre>
+    Auteur  :   
     Date    :   18.11.2026
     Projet  :   Additions d'éléments sur le Site web de Lucas
+</pre>
+---
+
+## Sommaire 
 
     - Hébergement
     - Accès
