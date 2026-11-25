@@ -5,13 +5,15 @@
 body{
     color: green;
 }
-h1{
+h1,
+h2
+{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-bottom: 30px;
-
-    
+    display: block;    
 }
+
 header{
     background-color: yellow;
 }
@@ -27,14 +29,16 @@ header{
     height: 25vh;
     width: 100vw;
 }
-.element3{
+.element3
+{
     background-color: red;
     height: 40vh;
     /* height: 25vh; */
     width: 100vw;
 }
 
-a{
+a
+{
     margin: 3;
     text-align: center;
     color: green;    
@@ -65,19 +69,41 @@ body {
     opacity: 0.7;
 }
 
-main 
+main
 {
     position: absolute;
     top: 25vh;
     padding: 2.5vw;
 }
 
-section
+.divFlex 
 {
-    width: 25vw;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+.ContentInside
+{
+    width: 20vw;
+    height: 60vh;
+    background-color: blanchedalmond;
+    border: 1px sandybrown solid;
+    border-radius: 1vw;
 }
 
 .Content
 {
-    
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    width: 85vw;
+}
+
+.BigFlatRectangle
+{
+    padding: 2.5 0;
 }
