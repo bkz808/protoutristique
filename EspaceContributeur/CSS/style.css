@@ -9,13 +9,13 @@
 
 body
 {
-    
-    background-image: url("../../colo.jpg");
+    background-image: url("../Images/Background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     overflow: hidden;
     opacity: 0.7;
+    height: 100vh;
 }
 
 h1
@@ -32,7 +32,7 @@ h2
 
 }
 
-.element1
+/* .element1
 {
     background-color: rgba(255, 255, 0);
     height: 50vh;
@@ -58,4 +58,24 @@ h2
     width: 100vw;
     position:absolute;
     bottom: 0;
+} */
+
+a{
+    margin: 3;
+    text-align: center;
+    color: green;    
+    background-color: rgba(109, 109, 0, 0.404);
+    border-radius: 5px;
+    text-decoration: none;
+   
 }
+
+a:hover{
+  color: rgb(0, 75, 0);   
+  transform: scale(1.01);
+  padding: 2px;
+}
+/* img{
+    display: block;
+    margin: auto;
+} */
