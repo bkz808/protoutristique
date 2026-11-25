@@ -17,6 +17,7 @@ h2
 header{
     background-color: yellow;
 }
+
 .element1{
     background-color: yellow;
     height: 20vh;
@@ -106,4 +107,10 @@ main
 .BigFlatRectangle
 {
     padding: 2.5 0;
+}
+
+.Content img
+{
+    width: auto;
+    height: 35%;
 }
